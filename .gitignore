@@ -1,0 +1,12 @@
+node_modules
+.idea/
+*.log
+*.aes
+package-lock.json
+cypress/screenshots
+cypress/videos
+cypress/logs
+.history
+.vscode
+env
+.DS_Store
